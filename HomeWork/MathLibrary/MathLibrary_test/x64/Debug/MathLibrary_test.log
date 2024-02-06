@@ -1,0 +1,4 @@
+﻿  MathLibrary_test.c
+C:\Visual Studio\MathLibrary\MathLibrary_test\MathLibrary_test.c(32,51): warning C4047: =: "sort_info_t *" отличается по уровням косвенного обращения от "INT_PTR"
+C:\Visual Studio\MathLibrary\MathLibrary_test\MathLibrary_test.c(73,9): warning C4101: t: неиспользованная локальная переменная
+  MathLibrary_test.vcxproj -> C:\Visual Studio\MathLibrary\x64\Debug\MathLibrary_test.exe

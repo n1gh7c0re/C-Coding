@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLibrary.c
+  Создание кода...
+     Создается библиотека C:\Visual Studio\MathLibrary\x64\Debug\MathLibrary.lib и объект C:\Visual Studio\MathLibrary\x64\Debug\MathLibrary.exp
+  MathLibrary.vcxproj -> C:\Visual Studio\MathLibrary\x64\Debug\MathLibrary.dll
